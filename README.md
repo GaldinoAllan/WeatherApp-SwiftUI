@@ -1,0 +1,1 @@
+Weather app created with SwiftUI consuming the [OpenWeatherMap API](https://openweathermap.org/api)
